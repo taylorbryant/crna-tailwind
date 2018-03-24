@@ -1,16 +1,16 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
-import styles from "./components/styles";
+import tailwind from "./components/tailwind";
 
 export default class App extends React.Component {
   render() {
     return (
       <View
         style={[
-          styles.flex_1,
-          styles.bg_white,
-          styles.item_center,
-          styles.justify_center
+          tailwind['flex-1'],
+          tailwind['bg-blue'],
+          tailwind['items-center'],
+          tailwind['justify-center']
         ]}
       >
         <Text>Open up App.js to start working on your app!</Text>
