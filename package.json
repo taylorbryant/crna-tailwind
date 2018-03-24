@@ -1,7 +1,11 @@
 {
   "name": "crna-tailwind",
   "version": "0.1.0",
-  "private": true,
+  "description": "Create React Native App styled with Tailwind, a ridiculously awesome utility-first CSS framework.",
+  "license": "MIT",
+  "repository": "https://github.com/taylorbryant/crna-tailwind.git",
+  "bugs": "https://github.com/taylorbryant/crna-tailwind/issues",
+  "contributors": ["Taylor Bryant <taylor@bryant.io>"],
   "devDependencies": {
     "react-native-scripts": "1.11.1",
     "jest-expo": "25.0.0",
