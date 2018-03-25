@@ -55,3 +55,6 @@
 * [Create React Native App documentation](https://github.com/react-community/create-react-native-app)
 * [Tailwind documentation](https://tailwindcss.com/docs/what-is-tailwind/)
 * [List of available properties in React Native](https://facebook.github.io/react-native/docs/stylesheet.html)
+
+## License
+[MIT](https://github.com/taylorbryant/crna-tailwind/blob/master/LICENSE.md)
