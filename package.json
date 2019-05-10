@@ -7,7 +7,7 @@
   "bugs": "https://github.com/taylorbryant/crna-tailwind/issues",
   "contributors": ["Taylor Bryant <taylor@bryant.io>"],
   "devDependencies": {
-    "react-native-scripts": "1.11.1",
+    "react-native-scripts": "2.0.1",
     "jest-expo": "25.1.0",
     "react-test-renderer": "16.2.0"
   },
