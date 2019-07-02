@@ -25,6 +25,6 @@
   "dependencies": {
     "expo": "^33.0.0",
     "react": "16.8.6",
-    "react-native": "0.59.9"
+    "react-native": "0.59.10"
   }
 }

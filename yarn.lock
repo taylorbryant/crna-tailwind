@@ -5231,9 +5231,9 @@ react-native-webview@5.8.1:
     escape-string-regexp "1.0.5"
     invariant "2.2.4"
 
-react-native@0.59.9:
-  version "0.59.9"
-  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.9.tgz#c94ee4fa35121720c05235a2dd6cdd2784bf5177"
+react-native@0.59.10:
+  version "0.59.10"
+  resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.10.tgz#352f381e382f93a0403be499c9e384bf51c2591c"
   dependencies:
     "@babel/runtime" "^7.0.0"
     "@react-native-community/cli" "^1.2.1"
