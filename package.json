@@ -8,7 +8,7 @@
   "contributors": ["Taylor Bryant <taylor@bryant.io>"],
   "devDependencies": {
     "react-native-scripts": "2.0.1",
-    "jest-expo": "33.0.2",
+    "jest-expo": "34.0.0",
     "react-test-renderer": "16.8.6"
   },
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
